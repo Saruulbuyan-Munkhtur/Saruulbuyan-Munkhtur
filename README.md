@@ -46,11 +46,11 @@
 # 📃 My Resume
 
 <p align='center>
-<img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" src="https://img.shields.io/badge/gatsby%20-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/gatsby%20-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <p align='center'>
@@ -65,7 +65,6 @@
 </p>
 
 
-**Programming Languages and Frameworks**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
