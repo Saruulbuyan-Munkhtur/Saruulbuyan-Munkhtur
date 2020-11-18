@@ -45,9 +45,9 @@
 
 <h1> 📃 My Resume </h1>
 
-<p align='center' style="margin: 100px">
+<p align='center' style="margin: 500px">
           
-  <img align="right" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="right" style="margin: 500px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="right" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img align="right" src="https://img.shields.io/badge/gatsby%20-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -55,9 +55,9 @@
           
 </p>
 
-<p align='center'>
+<p align='center' style="margin: 500px">
 
-  <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img align="right" style="margin: 500px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
