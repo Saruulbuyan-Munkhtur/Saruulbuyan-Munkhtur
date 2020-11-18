@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Saruulbuyan Munkhtur 👨‍💻
+  Hi there 👋 Feel free to look around 👨‍💻
 </h1>
 
 <p align='center'>
