@@ -69,7 +69,6 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-enterprise-%23#000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
 </p>
 
@@ -86,7 +85,7 @@
 
 
 
-// https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white
+<!--- https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white --->
 
 
 
