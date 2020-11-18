@@ -45,7 +45,7 @@
 
 <h1> 📃 My Resume </h1>
 
-<p align='center>
+<p align='center'>
           
   <img align="right" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="right" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
