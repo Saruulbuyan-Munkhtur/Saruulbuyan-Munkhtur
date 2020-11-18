@@ -43,7 +43,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/saruulbuyan-munkhtur/saruulbuyan-munkhtur"></a>
 </p>
 
-# 📃 My Resume
+<h1> 📃 My Resume </h1>
 
 <p align='center>
 <img align="right" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,7 +65,7 @@
 </p>
 
 
-
+<p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -75,7 +75,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</p>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
