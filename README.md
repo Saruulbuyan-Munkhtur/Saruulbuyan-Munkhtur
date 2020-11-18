@@ -10,6 +10,8 @@ blog is website definition in read file, just a place holder for all the urls th
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-git-master.saruulbuyan-munkhtur.vercel.app
 /api?username=Saruulbuyan-Munkhtur&show_icons=true&hide_border=true" />
 
+[![Saruulbuyan's github stats](https://github-readme-stats.vercel.app/api?username=saruulbuyan-munkhtur)](github-readme-stats-git-master.saruulbuyan-munkhtur.vercel.app
+)
 
 
 
