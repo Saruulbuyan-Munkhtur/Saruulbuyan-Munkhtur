@@ -20,3 +20,8 @@ blog is website definition in read file, just a place holder for all the urls th
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
