@@ -73,11 +73,13 @@
 </p>
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
+     - Personal Portfolio Website
+     - MERN Travel Tracker Website
 - 🌱 I’m currently learning ...
+     - React Native
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+     - MERN Stack Projects
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
