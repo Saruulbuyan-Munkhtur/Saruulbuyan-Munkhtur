@@ -76,8 +76,10 @@
 - 🔭 I’m currently working on
      - Personal Portfolio Website
      - MERN Travel Tracker Website
+     - A React-Native shopping app: https://github.com/Saruulbuyan-Munkhtur/gandalf-app
 - 🌱 I’m currently learning ...
      - React Native
+     - MERN Stack
 - 👯 I’m looking to collaborate on ...
      - MERN Stack Projects
 
